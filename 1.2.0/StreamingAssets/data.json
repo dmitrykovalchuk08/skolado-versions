@@ -1,0 +1,126 @@
+{
+    "name": "School",
+    "description": "This is the test survey 1",
+    "inspirationMessage": {
+        "quote" : "The future belongs to those who believe in the beauty of their dreams.",
+        "author" : "Eleanor Roosevelt"
+    },
+    "questions": [
+        {
+            "category": "Motivation",
+            "order": 1,
+            "question": "How motivated are you in school?",
+            "type": "NORMAL",
+            "method": "EMOJI_SCALE",
+            "choices": [
+                {
+                    "choice": "Not OK",
+                    "followUpQuestion": 
+                    {
+                        "category": null,
+                        "order": null,
+                        "question": "Something bad happen to you?",
+                        "type": "NORMAL",
+                        "method": "YES_NO",
+                        "choices": [
+                            {
+                                "choice": "Yes",
+                                "followUpQuestion": 
+                                {
+                                    "category": null,
+                                    "order": null,
+                                    "question": "Where?",
+                                    "type": "NORMAL",
+                                    "method": "ROBOT_GAME",
+                                    "choices": [
+                                        {
+                                            "choice": "School",
+                                            "followUpQuestion": null,
+                                            "value": 0,
+                                            "_id": "kjndcwjhbuw"
+                                        },
+                                        {
+                                            "choice": "Home",
+                                            "followUpQuestion": null,
+                                            "value": 10,
+                                            "_id": "jhwdhuc"
+                                        }
+                                    ],
+                                    "_id": "ijoiuhcehf"
+                                },
+                                "value": 0,
+                                "_id": "cjoehicebru"
+                            },
+                            {
+                                "choice": "No",
+                                "followUpQuestion": null,
+                                "value": 10,
+                                "_id": "tdgdxhkwdhu"
+                            }
+                        ],
+                        "_id": "edwhggh"
+                    },
+                    "value": 2,
+                    "_id": "hhduycwegdc"
+                },
+                {
+                    "choice": "Ok",
+                    "followUpQuestion": null,
+                    "value": 5,
+                    "_id": "jndcegy"
+                },
+                {
+                    "choice": "Super",
+                    "followUpQuestion": null,
+                    "value": 10,
+                    "_id": "cehjehbcegyc"
+                }
+            ],
+            "_id": "12345"
+        },
+        {
+            "category": "Safety",
+            "order": 2,
+            "question": "Do you feel safe at school?",
+            "type": "NORMAL",
+            "method": "YES_NO",
+            "choices": [
+                {
+                    "choice": "No",
+                    "followUpQuestion": null,
+                    "value": 0,
+                    "_id": "hwechgsdgc"
+                },
+                {
+                    "choice": "Yes",
+                    "followUpQuestion": null,
+                    "value": 10,
+                    "_id": "njdcjheg"
+                }
+            ],
+            "_id": "weguxyecd"
+        },
+        {
+            "category": null,
+            "order": 3,
+            "question": "What is your gender?",
+            "type": "FILTER",
+            "method": "ARCHER",
+            "choices": [
+                {
+                    "choice": "Male",
+                    "followUpQuestion": null,
+                    "value": 0,
+                    "_id": "dwehgcsh"
+                },
+                {
+                    "choice": "Female",
+                    "followUpQuestion": null,
+                    "value": 10,
+                    "_id": "hjbcehchj"
+                }
+            ],
+            "_id": "whbdchgvsd"
+        }
+    ] 
+}
