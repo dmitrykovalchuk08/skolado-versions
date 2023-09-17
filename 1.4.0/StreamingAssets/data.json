@@ -1,0 +1,1012 @@
+{
+    "name": "School",
+    "description": "This is the test survey 2",
+    "inspirationMessage": {
+        "quote" : "Happiness is not something ready made. It comes from your own actions.",
+        "author" : "Dalai Lama"
+    },
+    "questions": [
+        {
+            "method": "BATTERY",
+            "category": "Motivation",
+            "order": 0,
+            "question": "battery 4",
+            "choices": [
+                {
+                    "choice": "option 8",
+                    "value": 10,
+                    "_id": "test01"
+                },
+                {
+                    "choice": "option 7",
+                    "value": 7.5,
+                    "_id": "test02"
+                },
+                {
+                    "choice": "option 6",
+                    "value": 5,
+                    "_id": "test03"
+                },
+                {
+                    "choice": "option 5",
+                    "value": 2.5,
+                    "_id": "test04"
+                }
+            ],
+            "_id": "test0"
+        },
+        {
+            "method": "BATTERY",
+            "category": "Motivation",
+            "order": 1,
+            "question": "battery 5",
+            "choices": [
+                {
+                    "choice": "option 8",
+                    "value": 10,
+                    "_id": "test01"
+                },
+                {
+                    "choice": "option 7",
+                    "value": 7.5,
+                    "_id": "test02"
+                },
+                {
+                    "choice": "option 6",
+                    "value": 5,
+                    "_id": "test03"
+                },
+                {
+                    "choice": "option 5",
+                    "value": 2.5,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 4",
+                    "value": 2,
+                    "_id": "test04"
+                }
+            ],
+            "_id": "test0"
+        },
+        {
+            "method": "BATTERY",
+            "category": "Motivation",
+            "order": 2,
+            "question": "battery 6",
+            "choices": [
+                {
+                    "choice": "option 8",
+                    "value": 10,
+                    "_id": "test01"
+                },
+                {
+                    "choice": "option 7",
+                    "value": 7.5,
+                    "_id": "test02"
+                },
+                {
+                    "choice": "option 6",
+                    "value": 5,
+                    "_id": "test03"
+                },
+                {
+                    "choice": "option 5",
+                    "value": 2.5,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 4",
+                    "value": 2,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 3",
+                    "value": 1.5,
+                    "_id": "test04"
+                }
+            ],
+            "_id": "test0"
+        },
+        {
+            "method": "BATTERY",
+            "category": "Motivation",
+            "order": 3,
+            "question": "battery 7",
+            "choices": [
+                {
+                    "choice": "option 8",
+                    "value": 10,
+                    "_id": "test01"
+                },
+                {
+                    "choice": "option 7",
+                    "value": 7.5,
+                    "_id": "test02"
+                },
+                {
+                    "choice": "option 6",
+                    "value": 5,
+                    "_id": "test03"
+                },
+                {
+                    "choice": "option 5",
+                    "value": 2.5,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 4",
+                    "value": 2,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 3",
+                    "value": 1.5,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 2",
+                    "value": 1.0,
+                    "_id": "test04"
+                }
+            ],
+            "_id": "test0"
+        },
+        {
+            "method": "BATTERY",
+            "category": "Motivation",
+            "order": 4,
+            "question": "battery 8",
+            "choices": [
+                {
+                    "choice": "option 8",
+                    "value": 10,
+                    "_id": "test01"
+                },
+                {
+                    "choice": "option 7",
+                    "value": 7.5,
+                    "_id": "test02"
+                },
+                {
+                    "choice": "option 6",
+                    "value": 5,
+                    "_id": "test03"
+                },
+                {
+                    "choice": "option 5",
+                    "value": 2.5,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 4",
+                    "value": 2,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 3",
+                    "value": 1.5,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 2",
+                    "value": 1.0,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 1",
+                    "value": 0.5,
+                    "_id": "test04"
+                }
+            ],
+            "_id": "test0"
+        },
+
+        {
+            "method": "WATER_GLASS",
+            "category": "Motivation",
+            "order": 5,
+            "question": "WATER_GLASS 4",
+            "choices": [
+                {
+                    "choice": "option 8",
+                    "value": 10,
+                    "_id": "test01"
+                },
+                {
+                    "choice": "option 7",
+                    "value": 7.5,
+                    "_id": "test02"
+                },
+                {
+                    "choice": "option 6",
+                    "value": 5,
+                    "_id": "test03"
+                },
+                {
+                    "choice": "option 5",
+                    "value": 2.5,
+                    "_id": "test04"
+                }
+            ],
+            "_id": "test0"
+        },
+        {
+            "method": "WATER_GLASS",
+            "category": "Motivation",
+            "order": 6,
+            "question": "WATER_GLASS 5",
+            "choices": [
+                {
+                    "choice": "option 8",
+                    "value": 10,
+                    "_id": "test01"
+                },
+                {
+                    "choice": "option 7",
+                    "value": 7.5,
+                    "_id": "test02"
+                },
+                {
+                    "choice": "option 6",
+                    "value": 5,
+                    "_id": "test03"
+                },
+                {
+                    "choice": "option 5",
+                    "value": 2.5,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 4",
+                    "value": 2,
+                    "_id": "test04"
+                }
+            ],
+            "_id": "test0"
+        },
+        {
+            "method": "WATER_GLASS",
+            "category": "Motivation",
+            "order": 7,
+            "question": "WATER_GLASS 6",
+            "choices": [
+                {
+                    "choice": "option 8",
+                    "value": 10,
+                    "_id": "test01"
+                },
+                {
+                    "choice": "option 7",
+                    "value": 7.5,
+                    "_id": "test02"
+                },
+                {
+                    "choice": "option 6",
+                    "value": 5,
+                    "_id": "test03"
+                },
+                {
+                    "choice": "option 5",
+                    "value": 2.5,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 4",
+                    "value": 2,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 3",
+                    "value": 1.5,
+                    "_id": "test04"
+                }
+            ],
+            "_id": "test0"
+        },
+        {
+            "method": "WATER_GLASS",
+            "category": "Motivation",
+            "order": 8,
+            "question": "WATER_GLASS 7",
+            "choices": [
+                {
+                    "choice": "option 8",
+                    "value": 10,
+                    "_id": "test01"
+                },
+                {
+                    "choice": "option 7",
+                    "value": 7.5,
+                    "_id": "test02"
+                },
+                {
+                    "choice": "option 6",
+                    "value": 5,
+                    "_id": "test03"
+                },
+                {
+                    "choice": "option 5",
+                    "value": 2.5,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 4",
+                    "value": 2,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 3",
+                    "value": 1.5,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 2",
+                    "value": 1.0,
+                    "_id": "test04"
+                }
+            ],
+            "_id": "test0"
+        },
+        {
+            "method": "WATER_GLASS",
+            "category": "Motivation",
+            "order": 9,
+            "question": "WATER_GLASS 8",
+            "choices": [
+                {
+                    "choice": "option 8",
+                    "value": 10,
+                    "_id": "test01"
+                },
+                {
+                    "choice": "option 7",
+                    "value": 7.5,
+                    "_id": "test02"
+                },
+                {
+                    "choice": "option 6",
+                    "value": 5,
+                    "_id": "test03"
+                },
+                {
+                    "choice": "option 5",
+                    "value": 2.5,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 4",
+                    "value": 2,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 3",
+                    "value": 1.5,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 2",
+                    "value": 1.0,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 1",
+                    "value": 0.5,
+                    "_id": "test04"
+                }
+
+            ],
+            "_id": "test0"
+        },
+
+        {
+            "method": "MULTIPLE_CHOICE",
+            "category": "Motivation",
+            "order": 10,
+            "question": "WATER_GLASS 4",
+            "choices": [
+                {
+                    "choice": "option 8",
+                    "value": 10,
+                    "_id": "test01"
+                },
+                {
+                    "choice": "option 7",
+                    "value": 7.5,
+                    "_id": "test02"
+                },
+                {
+                    "choice": "option 6",
+                    "value": 5,
+                    "_id": "test03"
+                },
+                {
+                    "choice": "option 5",
+                    "value": 2.5,
+                    "_id": "test04"
+                }
+            ],
+            "_id": "test0"
+        },
+        {
+            "method": "MULTIPLE_CHOICE",
+            "category": "Motivation",
+            "order": 11,
+            "question": "WATER_GLASS 5",
+            "choices": [
+                {
+                    "choice": "option 8",
+                    "value": 10,
+                    "_id": "test01"
+                },
+                {
+                    "choice": "option 7",
+                    "value": 7.5,
+                    "_id": "test02"
+                },
+                {
+                    "choice": "option 6",
+                    "value": 5,
+                    "_id": "test03"
+                },
+                {
+                    "choice": "option 5",
+                    "value": 2.5,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 4",
+                    "value": 2,
+                    "_id": "test04"
+                }
+            ],
+            "_id": "test0"
+        },
+        {
+            "method": "MULTIPLE_CHOICE",
+            "category": "Motivation",
+            "order": 12,
+            "question": "WATER_GLASS 6",
+            "choices": [
+                {
+                    "choice": "option 8",
+                    "value": 10,
+                    "_id": "test01"
+                },
+                {
+                    "choice": "option 7",
+                    "value": 7.5,
+                    "_id": "test02"
+                },
+                {
+                    "choice": "option 6",
+                    "value": 5,
+                    "_id": "test03"
+                },
+                {
+                    "choice": "option 5",
+                    "value": 2.5,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 4",
+                    "value": 2,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 3",
+                    "value": 1.5,
+                    "_id": "test04"
+                }
+            ],
+            "_id": "test0"
+        },
+        {
+            "method": "MULTIPLE_CHOICE",
+            "category": "Motivation",
+            "order": 13,
+            "question": "WATER_GLASS 7",
+            "choices": [
+                {
+                    "choice": "option 8",
+                    "value": 10,
+                    "_id": "test01"
+                },
+                {
+                    "choice": "option 7",
+                    "value": 7.5,
+                    "_id": "test02"
+                },
+                {
+                    "choice": "option 6",
+                    "value": 5,
+                    "_id": "test03"
+                },
+                {
+                    "choice": "option 5",
+                    "value": 2.5,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 4",
+                    "value": 2,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 3",
+                    "value": 1.5,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 2",
+                    "value": 1.0,
+                    "_id": "test04"
+                }
+            ],
+            "_id": "test0"
+        },
+        {
+            "method": "MULTIPLE_CHOICE",
+            "category": "Motivation",
+            "order": 14,
+            "question": "WATER_GLASS 8",
+            "choices": [
+                {
+                    "choice": "option 8",
+                    "value": 10,
+                    "_id": "test01"
+                },
+                {
+                    "choice": "option 7",
+                    "value": 7.5,
+                    "_id": "test02"
+                },
+                {
+                    "choice": "option 6",
+                    "value": 5,
+                    "_id": "test03"
+                },
+                {
+                    "choice": "option 5",
+                    "value": 2.5,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 4",
+                    "value": 2,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 3",
+                    "value": 1.5,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 2",
+                    "value": 1.0,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 1",
+                    "value": 0.5,
+                    "_id": "test04"
+                }
+
+            ],
+            "_id": "test0"
+        },
+
+        {
+            "method": "ROBOT_GAME",
+            "category": "Motivation",
+            "order": 15,
+            "question": "ROBOT_GAME 4",
+            "choices": [
+                {
+                    "choice": "option 8",
+                    "value": 10,
+                    "_id": "test01"
+                },
+                {
+                    "choice": "option 7",
+                    "value": 7.5,
+                    "_id": "test02"
+                },
+                {
+                    "choice": "option 6",
+                    "value": 5,
+                    "_id": "test03"
+                },
+                {
+                    "choice": "option 5",
+                    "value": 2.5,
+                    "_id": "test04"
+                }
+            ],
+            "_id": "test0"
+        },
+        {
+            "method": "ROBOT_GAME",
+            "category": "Motivation",
+            "order": 16,
+            "question": "ROBOT_GAME 5",
+            "choices": [
+                {
+                    "choice": "option 8",
+                    "value": 10,
+                    "_id": "test01"
+                },
+                {
+                    "choice": "option 7",
+                    "value": 7.5,
+                    "_id": "test02"
+                },
+                {
+                    "choice": "option 6",
+                    "value": 5,
+                    "_id": "test03"
+                },
+                {
+                    "choice": "option 5",
+                    "value": 2.5,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 4",
+                    "value": 2,
+                    "_id": "test04"
+                }
+            ],
+            "_id": "test0"
+        },
+        {
+            "method": "ROBOT_GAME",
+            "category": "Motivation",
+            "order": 17,
+            "question": "ROBOT_GAME 6",
+            "choices": [
+                {
+                    "choice": "option 8",
+                    "value": 10,
+                    "_id": "test01"
+                },
+                {
+                    "choice": "option 7",
+                    "value": 7.5,
+                    "_id": "test02"
+                },
+                {
+                    "choice": "option 6",
+                    "value": 5,
+                    "_id": "test03"
+                },
+                {
+                    "choice": "option 5",
+                    "value": 2.5,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 4",
+                    "value": 2,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 3",
+                    "value": 1.5,
+                    "_id": "test04"
+                }
+            ],
+            "_id": "test0"
+        },
+        {
+            "method": "ROBOT_GAME",
+            "category": "Motivation",
+            "order": 18,
+            "question": "ROBOT_GAME 7",
+            "choices": [
+                {
+                    "choice": "option 8",
+                    "value": 10,
+                    "_id": "test01"
+                },
+                {
+                    "choice": "option 7",
+                    "value": 7.5,
+                    "_id": "test02"
+                },
+                {
+                    "choice": "option 6",
+                    "value": 5,
+                    "_id": "test03"
+                },
+                {
+                    "choice": "option 5",
+                    "value": 2.5,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 4",
+                    "value": 2,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 3",
+                    "value": 1.5,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 2",
+                    "value": 1.0,
+                    "_id": "test04"
+                }
+            ],
+            "_id": "test0"
+        },
+        {
+            "method": "ROBOT_GAME",
+            "category": "Motivation",
+            "order": 19,
+            "question": "ROBOT_GAME 8",
+            "choices": [
+                {
+                    "choice": "option 8",
+                    "value": 10,
+                    "_id": "test01"
+                },
+                {
+                    "choice": "option 7",
+                    "value": 7.5,
+                    "_id": "test02"
+                },
+                {
+                    "choice": "option 6",
+                    "value": 5,
+                    "_id": "test03"
+                },
+                {
+                    "choice": "option 5",
+                    "value": 2.5,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 4",
+                    "value": 2,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 3",
+                    "value": 1.5,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 2",
+                    "value": 1.0,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 1",
+                    "value": 0.5,
+                    "_id": "test04"
+                }
+
+            ],
+            "_id": "test0"
+        },
+
+        {
+            "method": "ARCHER",
+            "category": "Motivation",
+            "order": 20,
+            "question": "ARCHER 4",
+            "choices": [
+                {
+                    "choice": "option 8",
+                    "value": 10,
+                    "_id": "test01"
+                },
+                {
+                    "choice": "option 7",
+                    "value": 7.5,
+                    "_id": "test02"
+                },
+                {
+                    "choice": "option 6",
+                    "value": 5,
+                    "_id": "test03"
+                },
+                {
+                    "choice": "option 5",
+                    "value": 2.5,
+                    "_id": "test04"
+                }
+            ],
+            "_id": "test0"
+        },
+        {
+            "method": "ARCHER",
+            "category": "Motivation",
+            "order": 21,
+            "question": "ARCHER 5",
+            "choices": [
+                {
+                    "choice": "option 8",
+                    "value": 10,
+                    "_id": "test01"
+                },
+                {
+                    "choice": "option 7",
+                    "value": 7.5,
+                    "_id": "test02"
+                },
+                {
+                    "choice": "option 6",
+                    "value": 5,
+                    "_id": "test03"
+                },
+                {
+                    "choice": "option 5",
+                    "value": 2.5,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 4",
+                    "value": 2,
+                    "_id": "test04"
+                }
+            ],
+            "_id": "test0"
+        },
+        {
+            "method": "ARCHER",
+            "category": "Motivation",
+            "order": 22,
+            "question": "ARCHER 6",
+            "choices": [
+                {
+                    "choice": "option 8",
+                    "value": 10,
+                    "_id": "test01"
+                },
+                {
+                    "choice": "option 7",
+                    "value": 7.5,
+                    "_id": "test02"
+                },
+                {
+                    "choice": "option 6",
+                    "value": 5,
+                    "_id": "test03"
+                },
+                {
+                    "choice": "option 5",
+                    "value": 2.5,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 4",
+                    "value": 2,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 3",
+                    "value": 1.5,
+                    "_id": "test04"
+                }
+            ],
+            "_id": "test0"
+        },
+        {
+            "method": "ARCHER",
+            "category": "Motivation",
+            "order": 23,
+            "question": "ARCHER 7",
+            "choices": [
+                {
+                    "choice": "option 8",
+                    "value": 10,
+                    "_id": "test01"
+                },
+                {
+                    "choice": "option 7",
+                    "value": 7.5,
+                    "_id": "test02"
+                },
+                {
+                    "choice": "option 6",
+                    "value": 5,
+                    "_id": "test03"
+                },
+                {
+                    "choice": "option 5",
+                    "value": 2.5,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 4",
+                    "value": 2,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 3",
+                    "value": 1.5,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 2",
+                    "value": 1.0,
+                    "_id": "test04"
+                }
+            ],
+            "_id": "test0"
+        },
+        {
+            "method": "ARCHER",
+            "category": "Motivation",
+            "order": 24,
+            "question": "ARCHER 8",
+            "choices": [
+                {
+                    "choice": "option 8",
+                    "value": 10,
+                    "_id": "test01"
+                },
+                {
+                    "choice": "option 7",
+                    "value": 7.5,
+                    "_id": "test02"
+                },
+                {
+                    "choice": "option 6",
+                    "value": 5,
+                    "_id": "test03"
+                },
+                {
+                    "choice": "option 5",
+                    "value": 2.5,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 4",
+                    "value": 2,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 3",
+                    "value": 1.5,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 2",
+                    "value": 1.0,
+                    "_id": "test04"
+                },
+                {
+                    "choice": "option 1",
+                    "value": 0.5,
+                    "_id": "test04"
+                }
+            ],
+            "_id": "test0"
+        },
+
+        {
+            "method": "YES_NO",
+            "category": "Trygghet",
+            "order": 26,
+            "question": "Känner du dig trygg i skolan?",
+            "choices": [
+                {
+                    "choice": "Ja",
+                    "value": 10,
+                    "_id": "test61"
+                },
+                {
+                    "choice": "Nej",
+                    "value": 2,
+                    "_id": "test62"
+                }
+            ],
+            "_id": "test6"
+        }
+    ]
+}
