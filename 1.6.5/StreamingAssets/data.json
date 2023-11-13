@@ -1,1009 +1,210 @@
 {
   "name": "School",
-  "description": "This is the Data (streaming assets)",
+  "description": "This is the showcase data 22",
   "inspirationMessage": {
     "quote": "Happiness is not something ready made. It comes from your own actions.",
     "author": "Dalai Lama"
   },
   "questions": [
     {
-      "method": "ENTER_ANSWER",
-      "category": "Motivation",
+      "method": "ROBOT_GAME",
+      "category": "Klassrum",
       "order": 0,
-      "question": "Enter the text !",
-      "choices": [],
-      "_id": "test0"
-    },
-    {
-      "method": "BATTERY",
-      "category": "Motivation",
-      "order": 0,
-      "question": "battery 4",
+      "question": "Are you motivated to go to school?",
       "choices": [
         {
-          "choice": "Stämmer ganska dåligt",
+          "choice": "Always",
           "value": 10,
           "_id": "test01"
         },
         {
-          "choice": "Stämmer ganska bra",
+          "choice": "Often",
           "value": 7.5,
           "_id": "test02"
         },
         {
-          "choice": "Stämmer dåligt",
+          "choice": "Rarely",
           "value": 5,
           "_id": "test03"
         },
         {
-          "choice": "Stämmer bra",
+          "choice": "Never",
           "value": 2.5,
           "_id": "test04"
         }
       ],
-      "_id": "test0"
+      "_id": "test5"
     },
     {
       "method": "BATTERY",
       "category": "Motivation",
       "order": 1,
-      "question": "battery 5",
+      "question": "Are you motivated to go to school?",
       "choices": [
         {
-          "choice": "Stämmer ganska dåligt",
+          "choice": "Always",
           "value": 10,
           "_id": "test01"
         },
         {
-          "choice": "Stämmer ganska bra",
+          "choice": "Often",
           "value": 7.5,
           "_id": "test02"
         },
         {
-          "choice": "Stämmer dåligt",
+          "choice": "Rarely",
           "value": 5,
           "_id": "test03"
         },
         {
-          "choice": "Stämmer bra",
+          "choice": "Never",
           "value": 2.5,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 4",
-          "value": 2,
           "_id": "test04"
         }
       ],
       "_id": "test0"
     },
     {
-      "method": "BATTERY",
+      "method": "MULTIPLE_CHOICE",
       "category": "Motivation",
       "order": 2,
-      "question": "battery 6",
+      "question": "Are you motivated to go to school?",
       "choices": [
         {
-          "choice": "Stämmer ganska dåligt",
+          "choice": "Always",
           "value": 10,
           "_id": "test01"
         },
         {
-          "choice": "Stämmer ganska bra",
+          "choice": "Often",
           "value": 7.5,
           "_id": "test02"
         },
         {
-          "choice": "Stämmer dåligt",
+          "choice": "Rarely",
           "value": 5,
           "_id": "test03"
         },
         {
-          "choice": "Stämmer bra",
+          "choice": "Never",
           "value": 2.5,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 4",
-          "value": 2,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 3",
-          "value": 1.5,
           "_id": "test04"
         }
       ],
-      "_id": "test0"
+      "_id": "test1"
     },
     {
-      "method": "BATTERY",
+      "method": "EMOJI_SCALE",
       "category": "Motivation",
       "order": 3,
-      "question": "battery 7",
+      "question": "Are you motivated to go to school?",
       "choices": [
         {
-          "choice": "Stämmer ganska dåligt",
+          "choice": "Always",
           "value": 10,
           "_id": "test01"
         },
         {
-          "choice": "Stämmer ganska bra",
+          "choice": "Often",
           "value": 7.5,
           "_id": "test02"
         },
         {
-          "choice": "Stämmer dåligt",
+          "choice": "Rarely",
           "value": 5,
           "_id": "test03"
         },
         {
-          "choice": "Stämmer bra",
+          "choice": "Never",
           "value": 2.5,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 4",
-          "value": 2,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 3",
-          "value": 1.5,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 2",
-          "value": 1.0,
           "_id": "test04"
         }
       ],
-      "_id": "test0"
+      "_id": "test2"
     },
     {
-      "method": "BATTERY",
+      "method": "WATER_GLASS",
       "category": "Motivation",
       "order": 4,
-      "question": "battery 8",
+      "question": "Are you motivated to go to school?",
       "choices": [
         {
-          "choice": "Stämmer ganska dåligt",
+          "choice": "Always",
           "value": 10,
           "_id": "test01"
         },
         {
-          "choice": "Stämmer ganska bra",
+          "choice": "Often",
           "value": 7.5,
           "_id": "test02"
         },
         {
-          "choice": "Stämmer dåligt",
+          "choice": "Rarely",
           "value": 5,
           "_id": "test03"
         },
         {
-          "choice": "Stämmer bra",
+          "choice": "Never",
           "value": 2.5,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 4",
-          "value": 2,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 3",
-          "value": 1.5,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 2",
-          "value": 1.0,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 1",
-          "value": 0.5,
           "_id": "test04"
         }
       ],
-      "_id": "test0"
+      "_id": "test3"
     },
     {
-      "method": "WATER_GLASS",
-      "category": "Motivation",
+      "method": "ARCHER",
+      "category": "Klassrum",
       "order": 5,
-      "question": "WATER_GLASS 4",
+      "question": "Are you motivated to go to school?",
       "choices": [
         {
-          "choice": "Stämmer ganska dåligt",
+          "choice": "Always",
           "value": 10,
           "_id": "test01"
         },
         {
-          "choice": "Stämmer ganska bra",
+          "choice": "Often",
           "value": 7.5,
           "_id": "test02"
         },
         {
-          "choice": "Stämmer dåligt",
+          "choice": "Rarely",
           "value": 5,
           "_id": "test03"
         },
         {
-          "choice": "Stämmer bra",
+          "choice": "Never",
           "value": 2.5,
           "_id": "test04"
         }
       ],
-      "_id": "test0"
-    },
-    {
-      "method": "WATER_GLASS",
-      "category": "Motivation",
-      "order": 6,
-      "question": "WATER_GLASS 5",
-      "choices": [
-        {
-          "choice": "Stämmer ganska dåligt",
-          "value": 10,
-          "_id": "test01"
-        },
-        {
-          "choice": "Stämmer ganska bra",
-          "value": 7.5,
-          "_id": "test02"
-        },
-        {
-          "choice": "Stämmer dåligt",
-          "value": 5,
-          "_id": "test03"
-        },
-        {
-          "choice": "Stämmer bra",
-          "value": 2.5,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 4",
-          "value": 2,
-          "_id": "test04"
-        }
-      ],
-      "_id": "test0"
-    },
-    {
-      "method": "WATER_GLASS",
-      "category": "Motivation",
-      "order": 7,
-      "question": "WATER_GLASS 6",
-      "choices": [
-        {
-          "choice": "Stämmer ganska dåligt",
-          "value": 10,
-          "_id": "test01"
-        },
-        {
-          "choice": "Stämmer ganska bra",
-          "value": 7.5,
-          "_id": "test02"
-        },
-        {
-          "choice": "Stämmer dåligt",
-          "value": 5,
-          "_id": "test03"
-        },
-        {
-          "choice": "Stämmer bra",
-          "value": 2.5,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 4",
-          "value": 2,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 3",
-          "value": 1.5,
-          "_id": "test04"
-        }
-      ],
-      "_id": "test0"
-    },
-    {
-      "method": "WATER_GLASS",
-      "category": "Motivation",
-      "order": 8,
-      "question": "WATER_GLASS 7",
-      "choices": [
-        {
-          "choice": "Stämmer ganska dåligt",
-          "value": 10,
-          "_id": "test01"
-        },
-        {
-          "choice": "Stämmer ganska bra",
-          "value": 7.5,
-          "_id": "test02"
-        },
-        {
-          "choice": "Stämmer dåligt",
-          "value": 5,
-          "_id": "test03"
-        },
-        {
-          "choice": "Stämmer bra",
-          "value": 2.5,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 4",
-          "value": 2,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 3",
-          "value": 1.5,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 2",
-          "value": 1.0,
-          "_id": "test04"
-        }
-      ],
-      "_id": "test0"
-    },
-    {
-      "method": "WATER_GLASS",
-      "category": "Motivation",
-      "order": 9,
-      "question": "WATER_GLASS 8",
-      "choices": [
-        {
-          "choice": "Stämmer ganska dåligt",
-          "value": 10,
-          "_id": "test01"
-        },
-        {
-          "choice": "Stämmer ganska bra",
-          "value": 7.5,
-          "_id": "test02"
-        },
-        {
-          "choice": "Stämmer dåligt",
-          "value": 5,
-          "_id": "test03"
-        },
-        {
-          "choice": "Stämmer bra",
-          "value": 2.5,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 4",
-          "value": 2,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 3",
-          "value": 1.5,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 2",
-          "value": 1.0,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 1",
-          "value": 0.5,
-          "_id": "test04"
-        }
-      ],
-      "_id": "test0"
-    },
-    {
-      "method": "MULTIPLE_CHOICE",
-      "category": "Motivation",
-      "order": 10,
-      "question": "WATER_GLASS 4",
-      "choices": [
-        {
-          "choice": "Stämmer ganska dåligt",
-          "value": 10,
-          "_id": "test01"
-        },
-        {
-          "choice": "Stämmer ganska bra",
-          "value": 7.5,
-          "_id": "test02"
-        },
-        {
-          "choice": "Stämmer dåligt",
-          "value": 5,
-          "_id": "test03"
-        },
-        {
-          "choice": "Stämmer bra",
-          "value": 2.5,
-          "_id": "test04"
-        }
-      ],
-      "_id": "test0"
-    },
-    {
-      "method": "MULTIPLE_CHOICE",
-      "category": "Motivation",
-      "order": 11,
-      "question": "WATER_GLASS 5",
-      "choices": [
-        {
-          "choice": "Stämmer ganska dåligt",
-          "value": 10,
-          "_id": "test01"
-        },
-        {
-          "choice": "Stämmer ganska bra",
-          "value": 7.5,
-          "_id": "test02"
-        },
-        {
-          "choice": "Stämmer dåligt",
-          "value": 5,
-          "_id": "test03"
-        },
-        {
-          "choice": "Stämmer bra",
-          "value": 2.5,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 4",
-          "value": 2,
-          "_id": "test04"
-        }
-      ],
-      "_id": "test0"
-    },
-    {
-      "method": "MULTIPLE_CHOICE",
-      "category": "Motivation",
-      "order": 12,
-      "question": "WATER_GLASS 6",
-      "choices": [
-        {
-          "choice": "Stämmer ganska dåligt",
-          "value": 10,
-          "_id": "test01"
-        },
-        {
-          "choice": "Stämmer ganska bra",
-          "value": 7.5,
-          "_id": "test02"
-        },
-        {
-          "choice": "Stämmer dåligt",
-          "value": 5,
-          "_id": "test03"
-        },
-        {
-          "choice": "Stämmer bra",
-          "value": 2.5,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 4",
-          "value": 2,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 3",
-          "value": 1.5,
-          "_id": "test04"
-        }
-      ],
-      "_id": "test0"
-    },
-    {
-      "method": "MULTIPLE_CHOICE",
-      "category": "Motivation",
-      "order": 13,
-      "question": "WATER_GLASS 7",
-      "choices": [
-        {
-          "choice": "Stämmer ganska dåligt",
-          "value": 10,
-          "_id": "test01"
-        },
-        {
-          "choice": "Stämmer ganska bra",
-          "value": 7.5,
-          "_id": "test02"
-        },
-        {
-          "choice": "Stämmer dåligt",
-          "value": 5,
-          "_id": "test03"
-        },
-        {
-          "choice": "Stämmer bra",
-          "value": 2.5,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 4",
-          "value": 2,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 3",
-          "value": 1.5,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 2",
-          "value": 1.0,
-          "_id": "test04"
-        }
-      ],
-      "_id": "test0"
-    },
-    {
-      "method": "MULTIPLE_CHOICE",
-      "category": "Motivation",
-      "order": 14,
-      "question": "WATER_GLASS 8",
-      "choices": [
-        {
-          "choice": "Stämmer ganska dåligt",
-          "value": 10,
-          "_id": "test01"
-        },
-        {
-          "choice": "Stämmer ganska bra",
-          "value": 7.5,
-          "_id": "test02"
-        },
-        {
-          "choice": "Stämmer dåligt",
-          "value": 5,
-          "_id": "test03"
-        },
-        {
-          "choice": "Stämmer bra",
-          "value": 2.5,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 4",
-          "value": 2,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 3",
-          "value": 1.5,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 2",
-          "value": 1.0,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 1",
-          "value": 0.5,
-          "_id": "test04"
-        }
-      ],
-      "_id": "test0"
-    },
-    {
-      "method": "ROBOT_GAME",
-      "category": "Motivation",
-      "order": 15,
-      "question": "ROBOT_GAME 4",
-      "choices": [
-        {
-          "choice": "Stämmer ganska dåligt",
-          "value": 10,
-          "_id": "test01"
-        },
-        {
-          "choice": "Stämmer ganska bra",
-          "value": 7.5,
-          "_id": "test02"
-        },
-        {
-          "choice": "Stämmer dåligt",
-          "value": 5,
-          "_id": "test03"
-        },
-        {
-          "choice": "Stämmer bra",
-          "value": 2.5,
-          "_id": "test04"
-        }
-      ],
-      "_id": "test0"
-    },
-    {
-      "method": "ROBOT_GAME",
-      "category": "Motivation",
-      "order": 16,
-      "question": "ROBOT_GAME 5",
-      "choices": [
-        {
-          "choice": "Stämmer ganska dåligt",
-          "value": 10,
-          "_id": "test01"
-        },
-        {
-          "choice": "Stämmer ganska bra",
-          "value": 7.5,
-          "_id": "test02"
-        },
-        {
-          "choice": "Stämmer dåligt",
-          "value": 5,
-          "_id": "test03"
-        },
-        {
-          "choice": "Stämmer bra",
-          "value": 2.5,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 4",
-          "value": 2,
-          "_id": "test04"
-        }
-      ],
-      "_id": "test0"
-    },
-    {
-      "method": "ROBOT_GAME",
-      "category": "Motivation",
-      "order": 17,
-      "question": "ROBOT_GAME 6",
-      "choices": [
-        {
-          "choice": "Stämmer ganska dåligt",
-          "value": 10,
-          "_id": "test01"
-        },
-        {
-          "choice": "Stämmer ganska bra",
-          "value": 7.5,
-          "_id": "test02"
-        },
-        {
-          "choice": "Stämmer dåligt",
-          "value": 5,
-          "_id": "test03"
-        },
-        {
-          "choice": "Stämmer bra",
-          "value": 2.5,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 4",
-          "value": 2,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 3",
-          "value": 1.5,
-          "_id": "test04"
-        }
-      ],
-      "_id": "test0"
-    },
-    {
-      "method": "ROBOT_GAME",
-      "category": "Motivation",
-      "order": 18,
-      "question": "ROBOT_GAME 7",
-      "choices": [
-        {
-          "choice": "Stämmer ganska dåligt",
-          "value": 10,
-          "_id": "test01"
-        },
-        {
-          "choice": "Stämmer ganska bra",
-          "value": 7.5,
-          "_id": "test02"
-        },
-        {
-          "choice": "Stämmer dåligt",
-          "value": 5,
-          "_id": "test03"
-        },
-        {
-          "choice": "Stämmer bra",
-          "value": 2.5,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 4",
-          "value": 2,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 3",
-          "value": 1.5,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 2",
-          "value": 1.0,
-          "_id": "test04"
-        }
-      ],
-      "_id": "test0"
-    },
-    {
-      "method": "ROBOT_GAME",
-      "category": "Motivation",
-      "order": 19,
-      "question": "ROBOT_GAME 8",
-      "choices": [
-        {
-          "choice": "Stämmer ganska dåligt",
-          "value": 10,
-          "_id": "test01"
-        },
-        {
-          "choice": "Stämmer ganska bra",
-          "value": 7.5,
-          "_id": "test02"
-        },
-        {
-          "choice": "Stämmer dåligt",
-          "value": 5,
-          "_id": "test03"
-        },
-        {
-          "choice": "Stämmer bra",
-          "value": 2.5,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 4",
-          "value": 2,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 3",
-          "value": 1.5,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 2",
-          "value": 1.0,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 1",
-          "value": 0.5,
-          "_id": "test04"
-        }
-      ],
-      "_id": "test0"
-    },
-    {
-      "method": "ARCHER",
-      "category": "Motivation",
-      "order": 20,
-      "question": "ARCHER 4",
-      "choices": [
-        {
-          "choice": "Stämmer ganska dåligt",
-          "value": 10,
-          "_id": "test01"
-        },
-        {
-          "choice": "Stämmer ganska bra",
-          "value": 7.5,
-          "_id": "test02"
-        },
-        {
-          "choice": "Stämmer dåligt",
-          "value": 5,
-          "_id": "test03"
-        },
-        {
-          "choice": "Stämmer bra",
-          "value": 2.5,
-          "_id": "test04"
-        }
-      ],
-      "_id": "test0"
-    },
-    {
-      "method": "ARCHER",
-      "category": "Motivation",
-      "order": 21,
-      "question": "ARCHER 5",
-      "choices": [
-        {
-          "choice": "Stämmer ganska dåligt",
-          "value": 10,
-          "_id": "test01"
-        },
-        {
-          "choice": "Stämmer ganska bra",
-          "value": 7.5,
-          "_id": "test02"
-        },
-        {
-          "choice": "Stämmer dåligt",
-          "value": 5,
-          "_id": "test03"
-        },
-        {
-          "choice": "Stämmer bra",
-          "value": 2.5,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 4",
-          "value": 2,
-          "_id": "test04"
-        }
-      ],
-      "_id": "test0"
-    },
-    {
-      "method": "ARCHER",
-      "category": "Motivation",
-      "order": 22,
-      "question": "ARCHER 6",
-      "choices": [
-        {
-          "choice": "Stämmer ganska dåligt",
-          "value": 10,
-          "_id": "test01"
-        },
-        {
-          "choice": "Stämmer ganska bra",
-          "value": 7.5,
-          "_id": "test02"
-        },
-        {
-          "choice": "Stämmer dåligt",
-          "value": 5,
-          "_id": "test03"
-        },
-        {
-          "choice": "Stämmer bra",
-          "value": 2.5,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 4",
-          "value": 2,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 3",
-          "value": 1.5,
-          "_id": "test04"
-        }
-      ],
-      "_id": "test0"
-    },
-    {
-      "method": "ARCHER",
-      "category": "Motivation",
-      "order": 23,
-      "question": "ARCHER 7",
-      "choices": [
-        {
-          "choice": "Stämmer ganska dåligt",
-          "value": 10,
-          "_id": "test01"
-        },
-        {
-          "choice": "Stämmer ganska bra",
-          "value": 7.5,
-          "_id": "test02"
-        },
-        {
-          "choice": "Stämmer dåligt",
-          "value": 5,
-          "_id": "test03"
-        },
-        {
-          "choice": "Stämmer bra",
-          "value": 2.5,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 4",
-          "value": 2,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 3",
-          "value": 1.5,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 2",
-          "value": 1.0,
-          "_id": "test04"
-        }
-      ],
-      "_id": "test0"
-    },
-    {
-      "method": "ARCHER",
-      "category": "Motivation",
-      "order": 24,
-      "question": "ARCHER 8",
-      "choices": [
-        {
-          "choice": "Stämmer ganska dåligt",
-          "value": 10,
-          "_id": "test01"
-        },
-        {
-          "choice": "Stämmer ganska bra",
-          "value": 7.5,
-          "_id": "test02"
-        },
-        {
-          "choice": "Stämmer dåligt",
-          "value": 5,
-          "_id": "test03"
-        },
-        {
-          "choice": "Stämmer bra",
-          "value": 2.5,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 4",
-          "value": 2,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 3",
-          "value": 1.5,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 2",
-          "value": 1.0,
-          "_id": "test04"
-        },
-        {
-          "choice": "option 1",
-          "value": 0.5,
-          "_id": "test04"
-        }
-      ],
-      "_id": "test0"
+      "_id": "test4"
     },
     {
       "method": "YES_NO",
       "category": "Trygghet",
-      "order": 26,
-      "question": "Känner du dig trygg i skolan?",
+      "order": 6,
+      "question": "Are you motivated to go to school?",
       "choices": [
         {
-          "choice": "Ja",
+          "choice": "Yes",
           "value": 10,
           "_id": "test61"
         },
         {
-          "choice": "Nej",
+          "choice": "No",
           "value": 2,
-          "_id": "test62"
+          "_id": "test62",
+          "followUpQuestion":
+          {
+            "category": null,
+            "order": null,
+            "question": "Tell us why?",
+            "type": "NORMAL",
+            "method": "ENTER_ANSWER",
+            "choices": [],
+            "_id": "edwhggh"
+          }
         }
       ],
       "_id": "test6"
