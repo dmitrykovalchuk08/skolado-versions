@@ -1,0 +1,213 @@
+{
+  "name": "School",
+  "description": "This is the showcase data 22",
+  "inspirationMessage": {
+    "quote": "Happiness is not something ready made. It comes from your own actions.",
+    "author": "Dalai Lama"
+  },
+  "questions": [
+    {
+      "method": "ROBOT_GAME",
+      "category": "Klassrum",
+      "order": 0,
+      "question": "Are you motivated to go to school?",
+      "choices": [
+        {
+          "choice": "Always",
+          "value": 10,
+          "_id": "test01"
+        },
+        {
+          "choice": "Often",
+          "value": 7.5,
+          "_id": "test02"
+        },
+        {
+          "choice": "Rarely",
+          "value": 5,
+          "_id": "test03"
+        },
+        {
+          "choice": "Never",
+          "value": 2.5,
+          "_id": "test04"
+        }
+      ],
+      "_id": "test5"
+    },
+    {
+      "method": "BATTERY",
+      "category": "Motivation",
+      "order": 1,
+      "question": "Are you motivated to go to school?",
+      "choices": [
+        {
+          "choice": "Always",
+          "value": 10,
+          "_id": "test01"
+        },
+        {
+          "choice": "Often",
+          "value": 7.5,
+          "_id": "test02"
+        },
+        {
+          "choice": "Rarely",
+          "value": 5,
+          "_id": "test03"
+        },
+        {
+          "choice": "Never",
+          "value": 2.5,
+          "_id": "test04"
+        }
+      ],
+      "_id": "test0"
+    },
+    {
+      "method": "MULTIPLE_CHOICE",
+      "category": "Motivation",
+      "order": 2,
+      "question": "Are you motivated to go to school?",
+      "choices": [
+        {
+          "choice": "Always",
+          "value": 10,
+          "_id": "test01"
+        },
+        {
+          "choice": "Often",
+          "value": 7.5,
+          "_id": "test02"
+        },
+        {
+          "choice": "Rarely",
+          "value": 5,
+          "_id": "test03"
+        },
+        {
+          "choice": "Never",
+          "value": 2.5,
+          "_id": "test04"
+        }
+      ],
+      "_id": "test1"
+    },
+    {
+      "method": "EMOJI_SCALE",
+      "category": "Motivation",
+      "order": 3,
+      "question": "Are you motivated to go to school?",
+      "choices": [
+        {
+          "choice": "Always",
+          "value": 10,
+          "_id": "test01"
+        },
+        {
+          "choice": "Often",
+          "value": 7.5,
+          "_id": "test02"
+        },
+        {
+          "choice": "Rarely",
+          "value": 5,
+          "_id": "test03"
+        },
+        {
+          "choice": "Never",
+          "value": 2.5,
+          "_id": "test04"
+        }
+      ],
+      "_id": "test2"
+    },
+    {
+      "method": "WATER_GLASS",
+      "category": "Motivation",
+      "order": 4,
+      "question": "Are you motivated to go to school?",
+      "choices": [
+        {
+          "choice": "Always",
+          "value": 10,
+          "_id": "test01"
+        },
+        {
+          "choice": "Often",
+          "value": 7.5,
+          "_id": "test02"
+        },
+        {
+          "choice": "Rarely",
+          "value": 5,
+          "_id": "test03"
+        },
+        {
+          "choice": "Never",
+          "value": 2.5,
+          "_id": "test04"
+        }
+      ],
+      "_id": "test3"
+    },
+    {
+      "method": "ARCHER",
+      "category": "Klassrum",
+      "order": 5,
+      "question": "Are you motivated to go to school?",
+      "choices": [
+        {
+          "choice": "Always",
+          "value": 10,
+          "_id": "test01"
+        },
+        {
+          "choice": "Often",
+          "value": 7.5,
+          "_id": "test02"
+        },
+        {
+          "choice": "Rarely",
+          "value": 5,
+          "_id": "test03"
+        },
+        {
+          "choice": "Never",
+          "value": 2.5,
+          "_id": "test04"
+        }
+      ],
+      "_id": "test4"
+    },
+    {
+      "method": "YES_NO",
+      "category": "Trygghet",
+      "order": 6,
+      "question": "Are you motivated to go to school?",
+      "choices": [
+        {
+          "choice": "Yes",
+          "value": 10,
+          "_id": "test61"
+        },
+        {
+          "choice": "No",
+          "value": 2,
+          "_id": "test62",
+          "followUpQuestion":
+          {
+            "category": null,
+            "order": null,
+            "question": "Tell us why?",
+            "type": "NORMAL",
+            "method": "ENTER_ANSWER",
+            "choices": [],
+            "_id": "edwhggh"
+          }
+        }
+      ],
+      "_id": "test6"
+    }
+  ]
+}
