@@ -1,0 +1,437 @@
+{
+  "_id": "64e4c1d0342587130f6f5816",
+  "isFullScreenEnabled": false,
+  "isTextToSpeechEnabled": true,
+  "name": "aaa",
+  "description":" اللغة العربية جميلة ومتنوعة ",
+  "section": null,
+  "language": null,
+  "inspirationMessage": {
+    "quote": "وما فائدة العسل في الدنيا؟ حتى أتمكن من أكله! أعتقد ذلك!",
+    "author": "ويني الدبدوب"
+  },
+  "questions": [
+    {
+      "method": "ARCHER",
+      "order": 1,
+      "category": null,
+      "question": "لعبه الرامي",
+      "choices": [
+        {
+          "choice": " نعم ",
+          "value": 3.33,
+          "_id": "64e4c8fda5941c5d30c7220d"
+        },
+        {
+          "choice": "لا",
+          "value": 6.67,
+          "_id": "64e4c8fda5941c5d30c7220e"
+        },
+        {
+          "choice": "لا اعرف",
+          "value": 10,
+          "_id": "64e4c8fda5941c5d30c7220f"
+        },
+        {
+          "choice": "أنا لن",
+          "value": 10,
+          "_id": "64e4c8fda5941c5d30c7220f"
+        },
+        {
+          "choice": "بالتأكيد",
+          "value": 10,
+          "_id": "64e4c8fda5941c5d30c7220f"
+        }
+      ],
+      "type": "FILTER",
+      "uuid": "6cb26507-5def-4fe7-a705-a598be38b3f9",
+      "choicesForFollowUpQuestion": [],
+      "_id": "64e4c75ba5941c5d30c720e8"
+    },
+    {
+      "method": "BATTERY",
+      "order": 2,
+      "category": null,
+      "question": "البطارية",
+      "choices": [
+        {
+          "choice": "تحطيم الحدود",
+          "value": 3.33,
+          "_id": "64e4c8fda5941c5d30c7220d"
+        },
+        {
+          "choice": "الجنون وجدني",
+          "value": 6.67,
+          "_id": "64e4c8fda5941c5d30c7220e"
+        },
+        {
+          "choice": "لا أستطيع إيقاف البطارية",
+          "value": 10,
+          "_id": "64e4c8fda5941c5d30c7220f"
+        }
+      ],
+      "type": "FILTER",
+      "uuid": "6cb26507-5def-4fe7-a705-a598be38b3f9",
+      "choicesForFollowUpQuestion": [],
+      "_id": "64e4c75ba5941c5d30c720e8"
+
+    },
+    {
+      "method": "EMOJI_SCALE",
+      "order": 3,
+      "category": "1",
+      "question": "إيموجي",
+      "choices": [
+        {
+          "choice": "غاضب",
+          "value": 3.33,
+          "_id": "64e4c1d0342587130f6f581e"
+        },
+        {
+          "choice": "لا تبتسم",
+          "value": 6.67,
+          "_id": "64e4c1d0342587130f6f581f",
+          "followUp": {
+            "category": null,
+            "question": "1.2",
+            "choices": [
+              {
+                "choice": "1",
+                "value": 3.33,
+                "_id": "64e4c1d0342587130f6f5825"
+              },
+              {
+                "choice": "2",
+                "value": 6.67,
+                "_id": "64e4c1d0342587130f6f5826"
+              },
+              {
+                "choice": "3",
+                "value": 10,
+                "_id": "64e4c1d0342587130f6f5827"
+              }
+            ],
+            "order": 5,
+            "type": "FOLLOW_UP",
+            "uuid": "9a6f1789-5b41-4c27-a801-231ef7fd47c1",
+            "parentQuestion": "f7fd8e5d-0894-4f11-8893-c5682b16c235",
+            "choicesForFollowUpQuestion": [
+              "2"
+            ],
+            "_id": "64e4c1d0342587130f6f5824",
+            "method": "ROBOT_GAME"
+          }
+        },
+        {
+          "choice": "إبتسم",
+          "value": 10,
+          "_id": "64e4c1d0342587130f6f5820"
+        }
+      ],
+      "type": "NORMAL",
+      "uuid": "f7fd8e5d-0894-4f11-8893-c5682b16c235",
+      "choicesForFollowUpQuestion": [],
+      "_id": "64e4c1d0342587130f6f581d"
+    },
+    {
+      "method": "ROBOT_GAME",
+      "order": 3,
+      "category": "1",
+      "question": "إيموجي",
+      "choices": [
+        {
+          "choice": "غاضب",
+          "value": 3.33,
+          "_id": "64e4c1d0342587130f6f581e"
+        },
+        {
+          "choice": "لا تبتسم",
+          "value": 6.67,
+          "_id": "64e4c1d0342587130f6f581f",
+          "followUp": {
+            "category": null,
+            "question": "1.2",
+            "choices": [
+              {
+                "choice": "1",
+                "value": 3.33,
+                "_id": "64e4c1d0342587130f6f5825"
+              },
+              {
+                "choice": "2",
+                "value": 6.67,
+                "_id": "64e4c1d0342587130f6f5826"
+              },
+              {
+                "choice": "3",
+                "value": 10,
+                "_id": "64e4c1d0342587130f6f5827"
+              }
+            ],
+            "order": 5,
+            "type": "FOLLOW_UP",
+            "uuid": "9a6f1789-5b41-4c27-a801-231ef7fd47c1",
+            "parentQuestion": "f7fd8e5d-0894-4f11-8893-c5682b16c235",
+            "choicesForFollowUpQuestion": [
+              "2"
+            ],
+            "_id": "64e4c1d0342587130f6f5824",
+            "method": "ROBOT_GAME"
+          }
+        },
+        {
+          "choice": "إبتسم",
+          "value": 10,
+          "_id": "64e4c1d0342587130f6f5820"
+        }
+      ],
+      "type": "NORMAL",
+      "uuid": "f7fd8e5d-0894-4f11-8893-c5682b16c235",
+      "choicesForFollowUpQuestion": [],
+      "_id": "64e4c1d0342587130f6f581d"
+    },
+    {
+      "method": "ENTER_ANSWER",
+      "order": 3,
+      "category": "1",
+      "question": "إيموجي",
+      "choices": [
+        {
+          "choice": "غاضب",
+          "value": 3.33,
+          "_id": "64e4c1d0342587130f6f581e"
+        },
+        {
+          "choice": "لا تبتسم",
+          "value": 6.67,
+          "_id": "64e4c1d0342587130f6f581f",
+          "followUp": {
+            "category": null,
+            "question": "1.2",
+            "choices": [
+              {
+                "choice": "1",
+                "value": 3.33,
+                "_id": "64e4c1d0342587130f6f5825"
+              },
+              {
+                "choice": "2",
+                "value": 6.67,
+                "_id": "64e4c1d0342587130f6f5826"
+              },
+              {
+                "choice": "3",
+                "value": 10,
+                "_id": "64e4c1d0342587130f6f5827"
+              }
+            ],
+            "order": 5,
+            "type": "FOLLOW_UP",
+            "uuid": "9a6f1789-5b41-4c27-a801-231ef7fd47c1",
+            "parentQuestion": "f7fd8e5d-0894-4f11-8893-c5682b16c235",
+            "choicesForFollowUpQuestion": [
+              "2"
+            ],
+            "_id": "64e4c1d0342587130f6f5824",
+            "method": "ROBOT_GAME"
+          }
+        },
+        {
+          "choice": "إبتسم",
+          "value": 10,
+          "_id": "64e4c1d0342587130f6f5820"
+        }
+      ],
+      "type": "NORMAL",
+      "uuid": "f7fd8e5d-0894-4f11-8893-c5682b16c235",
+      "choicesForFollowUpQuestion": [],
+      "_id": "64e4c1d0342587130f6f581d"
+    },
+    {
+      "method": "MULTIPLE_CHOICE",
+      "order": 3,
+      "category": "1",
+      "question": "إيموجي",
+      "choices": [
+        {
+          "choice": "غاضب",
+          "value": 3.33,
+          "_id": "64e4c1d0342587130f6f581e"
+        },
+        {
+          "choice": "لا تبتسم",
+          "value": 6.67,
+          "_id": "64e4c1d0342587130f6f581f",
+          "followUp": {
+            "category": null,
+            "question": "1.2",
+            "choices": [
+              {
+                "choice": "1",
+                "value": 3.33,
+                "_id": "64e4c1d0342587130f6f5825"
+              },
+              {
+                "choice": "2",
+                "value": 6.67,
+                "_id": "64e4c1d0342587130f6f5826"
+              },
+              {
+                "choice": "3",
+                "value": 10,
+                "_id": "64e4c1d0342587130f6f5827"
+              }
+            ],
+            "order": 5,
+            "type": "FOLLOW_UP",
+            "uuid": "9a6f1789-5b41-4c27-a801-231ef7fd47c1",
+            "parentQuestion": "f7fd8e5d-0894-4f11-8893-c5682b16c235",
+            "choicesForFollowUpQuestion": [
+              "2"
+            ],
+            "_id": "64e4c1d0342587130f6f5824",
+            "method": "ROBOT_GAME"
+          }
+        },
+        {
+          "choice": "إبتسم",
+          "value": 10,
+          "_id": "64e4c1d0342587130f6f5820"
+        }
+      ],
+      "type": "NORMAL",
+      "uuid": "f7fd8e5d-0894-4f11-8893-c5682b16c235",
+      "choicesForFollowUpQuestion": [],
+      "_id": "64e4c1d0342587130f6f581d"
+    },
+    {
+      "method": "YES_NO",
+      "order": 3,
+      "category": "1",
+      "question": "إيموجي",
+      "choices": [
+        {
+          "choice": "غاضب",
+          "value": 3.33,
+          "_id": "64e4c1d0342587130f6f581e"
+        },
+        {
+          "choice": "لا تبتسم",
+          "value": 6.67,
+          "_id": "64e4c1d0342587130f6f581f",
+          "followUp": {
+            "category": null,
+            "question": "1.2",
+            "choices": [
+              {
+                "choice": "1",
+                "value": 3.33,
+                "_id": "64e4c1d0342587130f6f5825"
+              },
+              {
+                "choice": "2",
+                "value": 6.67,
+                "_id": "64e4c1d0342587130f6f5826"
+              },
+              {
+                "choice": "3",
+                "value": 10,
+                "_id": "64e4c1d0342587130f6f5827"
+              }
+            ],
+            "order": 5,
+            "type": "FOLLOW_UP",
+            "uuid": "9a6f1789-5b41-4c27-a801-231ef7fd47c1",
+            "parentQuestion": "f7fd8e5d-0894-4f11-8893-c5682b16c235",
+            "choicesForFollowUpQuestion": [
+              "2"
+            ],
+            "_id": "64e4c1d0342587130f6f5824",
+            "method": "ROBOT_GAME"
+          }
+        },
+        {
+          "choice": "إبتسم",
+          "value": 10,
+          "_id": "64e4c1d0342587130f6f5820"
+        }
+      ],
+      "type": "NORMAL",
+      "uuid": "f7fd8e5d-0894-4f11-8893-c5682b16c235",
+      "choicesForFollowUpQuestion": [],
+      "_id": "64e4c1d0342587130f6f581d"
+    },
+    {
+      "method": "WATER_GLASS",
+      "order": 3,
+      "category": "1",
+      "question": "إيموجي",
+      "choices": [
+        {
+          "choice": "غاضب",
+          "value": 3.33,
+          "_id": "64e4c1d0342587130f6f581e"
+        },
+        {
+          "choice": "لا تبتسم",
+          "value": 6.67,
+          "_id": "64e4c1d0342587130f6f581f",
+          "followUp": {
+            "category": null,
+            "question": "1.2",
+            "choices": [
+              {
+                "choice": "1",
+                "value": 3.33,
+                "_id": "64e4c1d0342587130f6f5825"
+              },
+              {
+                "choice": "2",
+                "value": 6.67,
+                "_id": "64e4c1d0342587130f6f5826"
+              },
+              {
+                "choice": "3",
+                "value": 10,
+                "_id": "64e4c1d0342587130f6f5827"
+              }
+            ],
+            "order": 5,
+            "type": "FOLLOW_UP",
+            "uuid": "9a6f1789-5b41-4c27-a801-231ef7fd47c1",
+            "parentQuestion": "f7fd8e5d-0894-4f11-8893-c5682b16c235",
+            "choicesForFollowUpQuestion": [
+              "2"
+            ],
+            "_id": "64e4c1d0342587130f6f5824",
+            "method": "ROBOT_GAME"
+          }
+        },
+        {
+          "choice": "إبتسم",
+          "value": 10,
+          "_id": "64e4c1d0342587130f6f5820"
+        }
+      ],
+      "type": "NORMAL",
+      "uuid": "f7fd8e5d-0894-4f11-8893-c5682b16c235",
+      "choicesForFollowUpQuestion": [],
+      "_id": "64e4c1d0342587130f6f581d"
+    }
+    
+  ],
+  "category": "gamemode-survey",
+  "public": true,
+  "online": true,
+  "createdBy": "636e1b77926c819019a29fe3",
+  "inUseBy": [
+    {
+      "user": "636e1b77926c819019a29fe3",
+      "subname": "1",
+      "online": true,
+      "_id": "64e4c984a5941c5d30c7222b"
+    }
+  ],
+  "__v": 0,
+  "isTextToSpeechAvailable": true
+}
