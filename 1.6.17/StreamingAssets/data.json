@@ -1,0 +1,312 @@
+{
+  "_id": "64e4c1d0342587130f6f5816",
+  "isFullScreenEnabled": false,
+  "isTextToSpeechEnabled": true,
+  "name": "aaa",
+  "description": "aaa",
+  "section": null,
+  "language": null,
+  "inspirationMessage": {
+    "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+    "author": "Albert Schweitzer"
+  },
+  "questions": [
+    {
+      "category": "1",
+      "question": "1",
+      "choices": [
+        {
+          "choice": "1",
+          "value": 3.33,
+          "_id": "64e4c1d0342587130f6f581e",
+          "followUp": {
+            "category": null,
+            "question": "1.1",
+            "choices": [
+              {
+                "choice": "1",
+                "value": 3.33,
+                "_id": "6523b8504af2646bda47689d",
+                "followUp": {
+                  "category": null,
+                  "question": "1.1.1",
+                  "choices": [
+                    {
+                      "choice": "1",
+                      "value": 3.33,
+                      "_id": "64e4c1d0342587130f6f5829"
+                    },
+                    {
+                      "choice": "2",
+                      "value": 6.67,
+                      "_id": "64e4c1d0342587130f6f582a"
+                    },
+                    {
+                      "choice": "3",
+                      "value": 10,
+                      "_id": "64e4c1d0342587130f6f582b"
+                    }
+                  ],
+                  "order": 6,
+                  "type": "FOLLOW_UP",
+                  "uuid": "74dc2f30-26a2-4134-ad67-d68142712315",
+                  "parentQuestion": "9bebeb26-dc05-4ed7-882a-7692f1b6e808",
+                  "choicesForFollowUpQuestion": [
+                    "1"
+                  ],
+                  "_id": "64e4c1d0342587130f6f5828",
+                  "method": "WATER_GLASS"
+                }
+              },
+              {
+                "choice": "2",
+                "value": 6.67,
+                "_id": "6523b8504af2646bda47689e"
+              },
+              {
+                "choice": "3",
+                "value": 10,
+                "_id": "6523b8504af2646bda47689f"
+              }
+            ],
+            "type": "FOLLOW_UP",
+            "uuid": "9bebeb26-dc05-4ed7-882a-7692f1b6e808",
+            "parentQuestion": "f7fd8e5d-0894-4f11-8893-c5682b16c235",
+            "choicesForFollowUpQuestion": [
+              "1"
+            ],
+            "_id": "64e4c1d0342587130f6f5821",
+            "method": "EMOJI_SCALE"
+          }
+        },
+        {
+          "choice": "2",
+          "value": 6.67,
+          "_id": "64e4c1d0342587130f6f581f",
+          "followUp": {
+            "category": null,
+            "question": "1.2",
+            "choices": [
+              {
+                "choice": "1",
+                "value": 3.33,
+                "_id": "64e4c1d0342587130f6f5825"
+              },
+              {
+                "choice": "2",
+                "value": 6.67,
+                "_id": "64e4c1d0342587130f6f5826"
+              },
+              {
+                "choice": "3",
+                "value": 10,
+                "_id": "64e4c1d0342587130f6f5827"
+              }
+            ],
+            "order": 5,
+            "type": "FOLLOW_UP",
+            "uuid": "9a6f1789-5b41-4c27-a801-231ef7fd47c1",
+            "parentQuestion": "f7fd8e5d-0894-4f11-8893-c5682b16c235",
+            "choicesForFollowUpQuestion": [
+              "2"
+            ],
+            "_id": "64e4c1d0342587130f6f5824",
+            "method": "ROBOT_GAME"
+          }
+        },
+        {
+          "choice": "3",
+          "value": 10,
+          "_id": "64e4c1d0342587130f6f5820"
+        }
+      ],
+      "order": 3,
+      "type": "NORMAL",
+      "uuid": "f7fd8e5d-0894-4f11-8893-c5682b16c235",
+      "choicesForFollowUpQuestion": [],
+      "_id": "64e4c1d0342587130f6f581d",
+      "method": "ROBOT_GAME"
+    },
+    {
+      "category": null,
+      "question": "F1",
+      "choices": [
+        {
+          "choice": "4",
+          "value": 3.33,
+          "_id": "64e4c8fda5941c5d30c7220d"
+        },
+        {
+          "choice": "5",
+          "value": 6.67,
+          "_id": "64e4c8fda5941c5d30c7220e"
+        },
+        {
+          "choice": "6",
+          "value": 10,
+          "_id": "64e4c8fda5941c5d30c7220f"
+        }
+      ],
+      "order": 7,
+      "type": "FILTER",
+      "uuid": "6cb26507-5def-4fe7-a705-a598be38b3f9",
+      "choicesForFollowUpQuestion": [],
+      "_id": "64e4c75ba5941c5d30c720e8",
+      "method": "BATTERY"
+    },
+    {
+      "category": null,
+      "question": "F1",
+      "choices": [
+        {
+          "choice": "4",
+          "value": 3.33,
+          "_id": "64e4c8fda5941c5d30c7220d"
+        },
+        {
+          "choice": "5",
+          "value": 6.67,
+          "_id": "64e4c8fda5941c5d30c7220e"
+        },
+        {
+          "choice": "6",
+          "value": 10,
+          "_id": "64e4c8fda5941c5d30c7220f"
+        }
+      ],
+      "order": 7,
+      "type": "FILTER",
+      "uuid": "6cb26507-5def-4fe7-a705-a598be38b3f9",
+      "choicesForFollowUpQuestion": [],
+      "_id": "64e4c75ba5941c5d30c720e8",
+      "method": "ROBOT_GAME"
+    },
+    {
+      "category": null,
+      "question": "F1",
+      "choices": [
+        {
+          "choice": "4",
+          "value": 3.33,
+          "_id": "64e4c8fda5941c5d30c7220d"
+        },
+        {
+          "choice": "5",
+          "value": 6.67,
+          "_id": "64e4c8fda5941c5d30c7220e"
+        },
+        {
+          "choice": "6",
+          "value": 10,
+          "_id": "64e4c8fda5941c5d30c7220f"
+        }
+      ],
+      "order": 7,
+      "type": "FILTER",
+      "uuid": "6cb26507-5def-4fe7-a705-a598be38b3f9",
+      "choicesForFollowUpQuestion": [],
+      "_id": "64e4c75ba5941c5d30c720e8",
+      "method": "YES_NO"
+    },
+    {
+      "category": null,
+      "question": "F1",
+      "choices": [
+        {
+          "choice": "4",
+          "value": 0,
+          "_id": "64e4c8fda5941c5d30c7220d"
+        },
+        {
+          "choice": "5",
+          "value": 1,
+          "_id": "64e4c8fda5941c5d30c7220e"
+        },
+        {
+          "choice": "6",
+          "value": 2,
+          "_id": "64e4c8fda5941c5d30c7220f"
+        },
+        {
+          "choice": "4",
+          "value": 10,
+          "_id": "64e4c8fda5941c5d30c7220d"
+        }
+      ],
+      "order": 7,
+      "type": "FILTER",
+      "uuid": "6cb26507-5def-4fe7-a705-a598be38b3f9",
+      "choicesForFollowUpQuestion": [],
+      "_id": "64e4c75ba5941c5d30c720e8",
+      "method": "EMOJI_SCALE"
+    },
+    {
+      "category": null,
+      "question": "F1",
+      "choices": [
+        {
+          "choice": "4",
+          "value": 0,
+          "_id": "64e4c8fda5941c5d30c7220d"
+        },
+        {
+          "choice": "5",
+          "value": 1,
+          "_id": "64e4c8fda5941c5d30c7220e"
+        },
+        {
+          "choice": "6",
+          "value": 2,
+          "_id": "64e4c8fda5941c5d30c7220f"
+        }
+      ],
+      "order": 7,
+      "type": "FILTER",
+      "uuid": "6cb26507-5def-4fe7-a705-a598be38b3f9",
+      "choicesForFollowUpQuestion": [],
+      "_id": "64e4c75ba5941c5d30c720e8",
+      "method": "ARCHER"
+    },
+    {
+      "category": null,
+      "question": "F1",
+      "choices": [
+        {
+          "choice": "4",
+          "value": 3.33,
+          "_id": "64e4c8fda5941c5d30c7220d"
+        },
+        {
+          "choice": "5",
+          "value": 6.67,
+          "_id": "64e4c8fda5941c5d30c7220e"
+        },
+        {
+          "choice": "6",
+          "value": 10,
+          "_id": "64e4c8fda5941c5d30c7220f"
+        }
+      ],
+      "order": 7,
+      "type": "FILTER",
+      "uuid": "6cb26507-5def-4fe7-a705-a598be38b3f9",
+      "choicesForFollowUpQuestion": [],
+      "_id": "64e4c75ba5941c5d30c720e8",
+      "method": "MULTIPLE_CHOICE"
+    }
+  ],
+  "category": "gamemode-survey",
+  "public": true,
+  "online": true,
+  "createdBy": "636e1b77926c819019a29fe3",
+  "inUseBy": [
+    {
+      "user": "636e1b77926c819019a29fe3",
+      "subname": "1",
+      "online": true,
+      "_id": "64e4c984a5941c5d30c7222b"
+    }
+  ],
+  "__v": 0,
+  "isTextToSpeechAvailable": true
+}
